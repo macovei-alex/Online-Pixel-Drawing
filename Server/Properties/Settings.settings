@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Server.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="ServerToClientPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8010</Value>
+    </Setting>
+    <Setting Name="ClientToServerPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8011</Value>
+    </Setting>
+    <Setting Name="SaveDirectoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Mac\C#\Online pixel drawing\Server\Saves Folder</Value>
+    </Setting>
+    <Setting Name="UsersCredentialsFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Mac\C#\Online pixel drawing\Server\Users.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
